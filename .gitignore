@@ -53,8 +53,7 @@ fastlane/screenshots
 
 # Repository
 styleguide/
-lib/
-bundle.js
+.story*
 /coverage/
 
 /yarn-error.log
