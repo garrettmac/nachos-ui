@@ -2,7 +2,9 @@ android/
 docs/
 example/
 ios/
-src/
+.story*
+.gith*
+.exp*
 lib/__tests__/
 lib/**/__tests__/
 styleguide/
